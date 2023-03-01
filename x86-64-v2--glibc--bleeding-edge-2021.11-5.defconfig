@@ -1,6 +1,6 @@
 BR2_x86_64=y
-BR2_x86_x86_64_v3=y
-BR2_HOST_DIR="/builds/bootlin/toolchains-builder/build/x86-64-v3--glibc--bleeding-edge-2021.11-5"
+BR2_x86_x86_64_v2=y
+BR2_HOST_DIR="/builds/bootlin/toolchains-builder/build/x86-64-v2--glibc--bleeding-edge-2021.11-5"
 BR2_TOOLCHAIN_BUILDROOT_GLIBC=y
 BR2_KERNEL_HEADERS_5_10=y
 BR2_BINUTILS_VERSION_2_37_X=y
